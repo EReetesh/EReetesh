@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I enjoy building projects, learning new technologi
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Student / Developer (customize as needed)
+- 🎓 Student / Developer / Programmer
 - 💡 Interested in **Web Development, Software Engineering, and Problem Solving**
-- 🌱 Currently learning **Data Structures, Algorithms, and Modern Web Technologies**
+- 🌱 Currently learning **Data Structures, Algorithms, Modern Web Technologies, and Android developement**
 - 🤝 Open to collaborating on **open-source and academic projects**
 
 ---
